@@ -1,7 +1,7 @@
 # Rifaximin-AMR
----
+
 This folder contains the R code for generating the forestplots used in the paper. To generate the graph, load selected R code in RStudio and run the R code to generate PDF graphs.
----
+
 Fig.2 | The risk of overall antimicrobial resistance and other specific types of resistance in rifaximin initiators at 3, 6, 9, and 12 months after the index date compared to non-users.
 
 Fig.3 | The risk of infection-related adverse events, including sepsis, spontaneous bacterial peritonitis, and mortality, in rifaximin initiators at 3, 6, 9, and 12 months after the index date compared to non-users.
